@@ -1,0 +1,7 @@
+﻿  App.cpp
+  Mainframe.cpp
+C:\Users\Marcel\source\repos\ToDoList\FirstGUI\Mainframe.cpp(125,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marcel\source\repos\ToDoList\FirstGUI\Mainframe.cpp(162,20): warning C4018: '<': signed/unsigned mismatch
+  Task.cpp
+  Generating Code...
+  FirstGUI.vcxproj -> C:\Users\Marcel\source\repos\ToDoList\Debug\ToDoLIST.exe
